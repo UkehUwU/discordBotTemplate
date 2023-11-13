@@ -14,7 +14,7 @@
   "author": "Ukeh",
   "license": "Apache License 2.0",
   "dependencies": {
-    "discord.js": "^14.13.0",
+    "discord.js": "^14.14.0",
     "dotenv": "^16.3.1",
     "fs": "^0.0.1-security",
     "module": "^1.2.5",
